@@ -2,20 +2,20 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    color: #FFFFFF;
+    color: #ffffff;
     margin: 0;
     width: 100%;
-    }
-    
-    @media screen and (max-width: 800px) {
+}
+
+@media screen and (max-width: 800px) {
     .intro__title {
-    max-width: 720px;
+        max-width: 720px;
     }
-    }
-    @media screen and (max-width: 375px) {
+}
+@media screen and (max-width: 375px) {
     .intro__title {
-    max-width: 288px;
-    font-size: 32px;
-    line-height: 35px;
+        max-width: 288px;
+        font-size: 32px;
+        line-height: 35px;
     }
-    }
+}

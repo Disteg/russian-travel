@@ -1,7 +1,0 @@
-@import url(./_link/place__website_link.css);
-@import url(./_url-heading/place__website_url-heading.css);
-.place__website {
-text-decoration-line: underline;
-color: #ffffff;
-align-self: end;
-}
